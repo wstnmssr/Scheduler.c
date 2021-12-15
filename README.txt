@@ -9,4 +9,4 @@ To run:
 	./Scheduler <filename>
 	
 Example:
-	./Scheduler idleTest.txt
+	./Scheduler FirstTest.txt
